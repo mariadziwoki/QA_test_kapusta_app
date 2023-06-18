@@ -1,4 +1,4 @@
-# QA_test_kapusta_app
+# QA_test_work
 Project made in May 2023 within the frames of "QA Engineer" course conducted by GOIT Polska.
 
 Objective:
